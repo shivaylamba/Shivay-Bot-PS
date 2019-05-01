@@ -46,7 +46,7 @@ exports.watchconfig = true;
 
 exports.nick = 'Shivay Bot';
 
-exports.pass = 'Shivay12345';
+exports.pass = '';
 
 exports.autoReloginDelay = 60 * 1000;
 
