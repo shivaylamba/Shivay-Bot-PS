@@ -45,12 +45,12 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "colors": "1.0.3",
-    "crawler": "^1.2.0",
+    "crawler": "^1.2.1",
     "express": "^4.16.4",
     "origindb": "^2.6.1",
     "request": "^2.88.0",
     "sugar": "1.4.1",
-    "websocket": "1.0.18"
+    "websocket": "^1.0.28"
   },
   "devDependencies": {
     "cache-swap": "~0.2.0",
