@@ -123,10 +123,10 @@ Context.prototype.splitReply = function (str, maxMessageLength) {
 Credits
 -----------
 
- - [Ecuacion](https://github.com/Ecuacion/) (Owner)
+ - [Shivay](https://github.com/shivaylamba/) (Owner)
  
 Contributors:
-
+ - [Ecausion](https://github.com/ecausion/) (Original coder)
  - [Freigeist](https://github.com/Freigeist) (Languages/Translation feature and bug fixes)
  - [Irraquated](https://github.com/Irraquated) (Languages and bug fixes)
  - [panpawn](https://github.com/panpawn) (YouTube feature, fixes)
