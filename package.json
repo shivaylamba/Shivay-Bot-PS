@@ -47,6 +47,7 @@
     "colors": "1.0.3",
     "crawler": "^1.2.1",
     "express": "^4.16.4",
+    "myanimelists": "^1.0.1",
     "origindb": "^2.6.1",
     "request": "^2.88.0",
     "sugar": "1.4.1",
