@@ -5,6 +5,7 @@ config-tmp-*.js
 
 # Private files
 commands/private.js
+commands/sampleteams.js
 
 # Test
 test-data
